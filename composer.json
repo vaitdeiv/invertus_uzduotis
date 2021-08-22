@@ -1,0 +1,17 @@
+{
+    "name": "deividas/invertus_uzduotis",
+    "description": "shopping_cart_app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Deividas V",
+            "email": "vaitdeiv@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "My_app\\": "src/"
+        }
+    }
+}
